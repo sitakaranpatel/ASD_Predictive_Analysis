@@ -36,7 +36,7 @@ library('caretEnsemble')
 # Data import
 ```{r}
 # reading the autism dataset
-autism_data <- read.csv("/Users/hp/Desktop/DA5030/Gayathri/Project/autism_screening.csv")
+autism_data <- read.csv("/Users/hp/Desktop/DA5030/Sita/Project/autism_screening.csv")
 ```
 
 
