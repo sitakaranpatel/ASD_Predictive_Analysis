@@ -28,17 +28,17 @@ We perform a preliminary exploration of the dataset to understand its structure,
 
 **Principal Component Analysis (PCA):** 
 
-We apply PCA to reduce the dimensionality of the dataset. We compare the performance of PCA on both scaled and unscaled data. The first five principal components were chosen, which accounted for more than 95% of the dataset's variation.
+- We apply PCA to reduce the dimensionality of the dataset. We compare the performance of PCA on both scaled and unscaled data. The first five principal components were chosen, which accounted for more than 95% of the dataset's variation.
 
 ## Model Building and Evaluation
 
 **Machine Learning Models:** 
 
-We implement various machine learning models, including Support Vector Machine (SVM), Decision Tree, Logistic Regression, and Artificial Neural Networks (ANN).
+- We implement various machine learning models, including Support Vector Machine (SVM), Decision Tree, Logistic Regression, and Artificial Neural Networks (ANN).
 
 **Model Evaluation:** 
 
-For each model, we evaluate its performance using metrics such as confusion matrices, accuracy, precision, recall, and F1-score. 
+- For each model, we evaluate its performance using metrics such as confusion matrices, accuracy, precision, recall, and F1-score. 
 
 ## Ensemble Techniques
 
@@ -48,11 +48,11 @@ We apply ensemble techniques, including bagging (Random Forest and Treebag) and 
 
 **Hyperparameter Tuning:** 
 
-We perform hyperparameter tuning for the Stochastic Gradient Boosting model to optimize its performance.
+- We perform hyperparameter tuning for the Stochastic Gradient Boosting model to optimize its performance.
 
 ## Conclusion
 
-- Machine learning models and ensemble techniques were applied to achieve high accuracy in ASD diagnosis.In conclusion, all implemented algorithms successfully classify individuals as either ASD patients or normal individuals based on the provided features.  
+- Machine learning models and ensemble techniques were applied to achieve high accuracy in ASD diagnosis.In conclusion, all implemented algorithms successfully classify individuals as either ASD patients or normal individuals based on the provided features.
 - All the models achieved 100 % accuracy except for decision tree with 98.57%. 
 - Bagging and Boosting ensemble methods were applied to enhance model performance. 
 Bagging, using both Treebag and Random Forest, yielded impressive results with mean accuracies of 98.56% and 99.27%, respectively. 
