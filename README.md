@@ -25,7 +25,8 @@ The goal of the Autism Screening and Assessment Clinic is to provide identificat
 
 ## Feature Engineering
 
-**Principal Component Analysis (PCA):** We apply PCA to reduce the dimensionality of the dataset. We compare the performance of PCA on both scaled and unscaled data. The first five principal components were chosen, which accounted for more than 95% of the dataset's variation.
+**Principal Component Analysis (PCA):** 
+We apply PCA to reduce the dimensionality of the dataset. We compare the performance of PCA on both scaled and unscaled data. The first five principal components were chosen, which accounted for more than 95% of the dataset's variation.
 
 ## Model Building and Evaluation
 
