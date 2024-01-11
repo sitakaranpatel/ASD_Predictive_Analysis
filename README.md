@@ -44,7 +44,7 @@ We perform a preliminary exploration of the dataset to understand its structure,
 
 **Bagging and Boosting:** 
 
-We apply ensemble techniques, including bagging (Random Forest and Treebag) and boosting (C5.0 and Stochastic Gradient Boosting), to improve model performance.
+- We apply ensemble techniques, including bagging (Random Forest and Treebag) and boosting (C5.0 and Stochastic Gradient Boosting), to improve model performance.
 
 **Hyperparameter Tuning:** 
 
